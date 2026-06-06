@@ -1,0 +1,2 @@
+rich~=15.0
+instagrapi~=2.8
